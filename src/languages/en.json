@@ -1,0 +1,12 @@
+{
+  "birb": {
+    "settings": {
+      "inactivityTimeoutName": "Timeout",
+      "inactivityTimeoutHint": "How long to wait for a user to be away from the table before considering them inactive (in seconds)",
+      "inactivityIndicatorName": "Inactivity Indicator",
+      "inactivityIndicatorHint": "What to display in the player list when a user is inactive",
+      "gmInactivityName": "Display if GM is inactive",
+      "gmInactivityHint": ""
+    }
+  }
+}

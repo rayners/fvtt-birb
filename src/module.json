@@ -1,0 +1,39 @@
+{
+  "id": "birb",
+  "title": "Birb",
+  "description": "",
+  "version": "VERSION",
+  "library": false,
+  "type": "module",
+  "socket": true,
+  "manifestPlusVersion": "1.2.0",
+  "compatibility": {
+    "minimum": 11,
+    "verified": 11,
+    "maximum": 11
+  },
+  "authors": [
+    {
+      "name": "David Raynes",
+      "url": "https://github.com/rayners",
+      "discord": "rayners78"
+    }
+  ],
+  "relationships": {
+    "systems": [],
+    "requires": []
+  },
+  "esmodules": ["scripts/module.js"],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "languages/en.json"
+    }
+  ],
+  "url": "https://github.com/rayners/fvtt-birb",
+  "manifest": "MANIFEST",
+  "download": "DOWNLOAD",
+  "license": "LICENSE",
+  "readme": "README.md"
+}

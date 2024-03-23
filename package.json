@@ -1,0 +1,21 @@
+{
+  "id": "@rayners/foundry-vtt-birb",
+  "private": true,
+  "version": "0.1.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc && vite build"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@league-of-foundry-developers/foundry-vtt-types": "^9.280.0",
+    "eslint": "^8.57.0",
+    "prettier": "^3.2.5",
+    "rollup-plugin-copy": "^3.5.0",
+    "rollup-plugin-scss": "^4.0.0",
+    "sass": "^1.72.0",
+    "typescript": "^5.4.3",
+    "typescript-eslint": "^7.3.1",
+    "vite": "^5.2.3"
+  }
+}
