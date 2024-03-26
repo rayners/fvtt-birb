@@ -1,12 +1,16 @@
 {
   "birb": {
     "settings": {
+      "inactivityVisibilityName": "Inactive state visible to:",
+      "inactivityVisibilityHint": "",
       "inactivityTimeoutName": "Timeout",
       "inactivityTimeoutHint": "How long to wait for a user to be away from the table before considering them inactive (in seconds)",
       "inactivityIndicatorName": "Inactivity Indicator",
       "inactivityIndicatorHint": "What to display in the player list when a user is inactive",
       "gmInactivityName": "Display if GM is inactive",
-      "gmInactivityHint": ""
+      "gmInactivityHint": "",
+      "inactivityAlertSoundName": "Alert sound",
+      "inactivityAlertSoundHint": "Sound to play in client of away user(s). Does not propogate to other clients right away. Set to empty to disable."
     }
   }
 }

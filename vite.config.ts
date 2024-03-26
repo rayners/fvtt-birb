@@ -62,6 +62,7 @@ export default defineConfig({
    }),
    copy({
      targets: [
+       { src: "src/assets", dest: "dist" },
        { src: "src/templates", dest: "dist" },
        { src: "src/languages", dest: "dist" },
        { src: "src/icons", dest: "dist" },
